@@ -9,3 +9,6 @@
 ##### Conditional formatting is applied to the yearly change of each ticker, to highlight positive change in green and negative change in red.
 
 ##### The macro must be run for each worksheet (cannot be run for all sheets simultanously.)
+
+##### Many variables were defined as a Variant data type to prevent an overflow error that often occurs when using other data types (e.g. Long or Double) with Excel for Mac OS.
+
