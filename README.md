@@ -12,4 +12,4 @@
 
 ##### Many variables were defined as a Variant data type to prevent an overflow error that often occurs when using other data types (e.g. Long or Double) with Excel for Mac OS.
 
-###Update since submission of assignment: Original spreadsheet uploaded. Additional spreadsheet uploaded which includes code to calculate and display runtime of macro. Screenshots uploaded showing calculated runtime of macro for each year of data.
+**Update since submission of assignment: Original spreadsheet uploaded. Additional spreadsheet uploaded which includes code to calculate and display runtime of macro. Screenshots uploaded showing calculated runtime of macro for each year of data.**
