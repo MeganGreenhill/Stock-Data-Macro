@@ -1,4 +1,4 @@
-## VBA-challenge
+## Stock Data Macro
 
 ##### A macro has been developed that loops through one year of stock data and reads all values from ticker symbol, volume of stock, open price and close price.
 ##### On the same worksheet as the raw data for each year, columns are created to outline the yearly change, percent change and total stock volume for each ticker.
